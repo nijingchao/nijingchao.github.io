@@ -91,6 +91,11 @@ p {
   padding: 0;
 }
 
+l {
+  color: #7E7E7E;
+  font-size: 90%;
+}
+
 img.round {
   border-radius: 50%;
 }

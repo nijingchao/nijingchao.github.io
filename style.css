@@ -85,6 +85,15 @@ a:hover {
   color: #01A9DB; /* #2ECC71 */
 }
 
+a.red {
+  color: #F61717;
+  text-decoration: none;
+}
+
+a.red:hover {
+  color: #F79393;
+}
+
 p {
   margin-top: 0.0em;
   margin-bottom: 0.8em;

@@ -140,6 +140,17 @@ th, td {
   padding-right: 30px;
 }
 
+.listbox {
+  position: static;
+  overflow-y: scroll;
+  height: 150px;
+  color: black;
+  background-color: #EAF4F7;
+  /*     border: 2px solid black; */
+  /*     padding: 20px 50px 0px 30px; */
+  /*     font-size: 15px; */
+}
+
 footer {
   width: 1000px;
   height: 25px;

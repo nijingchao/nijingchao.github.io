@@ -94,6 +94,14 @@ a.red:hover {
   color: #F79393;
 }
 
+a.header {
+  color: #fff;
+}
+
+a.header:hover {
+  color: #01A9DB;
+}
+
 p {
   margin-top: 0.0em;
   margin-bottom: 0.8em;
@@ -128,8 +136,10 @@ th, td {
 
 .header {
   width: 1000px;
-  height: 30px;
+  height: 29px;
   margin: 0 auto;
+  padding-top: 6px;
+  text-align: right;
   /* padding: 30px 0 0; */
   color: #ccc;
   background: #34495E;
@@ -153,8 +163,8 @@ th, td {
 
 footer {
   width: 1000px;
-  height: 25px;
-  padding-top: 5px;
+  height: 29px;
+  padding-top: 6px;
   /* margin: 0 auto; */
   /* padding: 20px 0 0; */
   color: #ccc;

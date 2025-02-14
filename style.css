@@ -161,6 +161,12 @@ th, td {
   /*     font-size: 15px; */
 }
 
+.github-button-wrapper {
+  display: inline-block;
+  position: relative;
+  top: 4px;
+}
+
 footer {
   width: 1000px;
   height: 29px;
